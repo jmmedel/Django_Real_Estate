@@ -15,7 +15,7 @@ myFile.close()
 
 # Append to file
 myFile = open('myfile.txt', 'a')
-myFile.write(' I also like PHP')
+myFile.write(' I also like PHP And Laravel')
 myFile.close()
 
 # Read from file
