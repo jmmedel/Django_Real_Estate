@@ -40,7 +40,7 @@ pip install django
 ### Create your project
 
 ```
-django-admin startproject PROJECTNAME
+django-admin startproject PROJECTNAME . add the . for current directory
 ```
 
 ### Run Server (http://127.0.0.1:8000) CTRL+C to stop
