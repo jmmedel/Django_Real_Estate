@@ -51,7 +51,7 @@ python manage.py runserver
 
 ### Create an app
 ```
-python manage.py start app APPNAME
+python manage.py startapp APPNAME
 ```
 
 ### Create migrations
